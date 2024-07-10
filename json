@@ -6,5 +6,9 @@
     "ty": {
         "expires": "2025/08/04",
         "reason": "t"
+    },
+    "```": {
+        "expires": "e",
+        "reason": "```"
     }
 }
