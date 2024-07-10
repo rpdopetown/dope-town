@@ -1,6 +1,6 @@
 {
     "that_guy1027": {
-        "banneduntil": "2025/06/08",
-        "BanReason": "unsigma"
+        "expires": "2025/06/08",
+        "reason": "unsigma"
     }
 }
